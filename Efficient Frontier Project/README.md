@@ -28,6 +28,7 @@ Any point beneath the efficient frontier is inferior to points above. Moreover, 
 are, by definition, superior to all other points for that combined risk-return tradeoff.
 
 The Requirements:
+
 Step 1: Choose seven (7) assets (preferably something with significant historical data)
 
 Step 2: Retrieve daily open or close data on your assets for the previous 2 years
